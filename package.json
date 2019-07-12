@@ -1,0 +1,23 @@
+{
+  "name": "anderjs-portafolio",
+  "version": "1.0.0",
+  "description": "My portafolio",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "portafolio",
+    "js",
+    "node",
+    "express"
+  ],
+  "author": "anderjs",
+  "license": "ISC"
+}
